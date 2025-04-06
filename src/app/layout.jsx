@@ -12,9 +12,9 @@ export const metadata = {
 
 const navbar = (
   <Navbar
-    logo={<div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-      <img src="/nextbook.svg" alt="NextBook" height="40" width="auto" style={{ maxHeight: '40px' }} />
-      <span style={{ fontSize: '18px'}}>NextBook</span>
+    logo={<div style={{ display: 'flex', alignItems: 'center', gap: '10px', height: '100%', marginTop: '0', paddingTop: '0' }}>
+      <img src="/nextbook.svg" alt="NextBook" height="32" width="auto" style={{ maxHeight: '32px', verticalAlign: 'middle' }} />
+      <span style={{ fontSize: '18px', lineHeight: '32px', verticalAlign: 'middle' }}>NextBook</span>
     </div>}
     // ... Your additional navbar options
   />
