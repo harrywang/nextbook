@@ -1,6 +1,6 @@
 # About
 
-NextBook is a documentation website built with [Nextra 4.x](https://nextra.site/) - a Next.js-based static site generator optimized for documentation sites.
+[NextBook](https://github.com/harrywang/nextbook) is a documentation website built with [Nextra 4.x](https://nextra.site/) - a Next.js-based static site generator optimized for documentation sites.
 
 ## Getting Started
 
